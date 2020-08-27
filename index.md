@@ -6,6 +6,8 @@ tags: [home]
 
 [[[z:zettels?tag=SmartPowerPlant]]]
 
+[[[z:zettels?tag=CloudComputing]]]
+
 [[[z:zettels?tag=zt_structure]]]
 
 [[[z:zettels?tag=zt_processing]]]
