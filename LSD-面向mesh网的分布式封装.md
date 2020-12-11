@@ -6,4 +6,4 @@ tags: [DistributedComputing]
 # LSD-面向mesh网的分布式封装
 
 - c 和 python 语言
-- 是对 [[4aecea2d]] 的高层封装
+- 是对 [[zyre-分布式应用框架]] 的高层封装

@@ -7,5 +7,5 @@ tags: [DistributedComputing]
 
 - [serf.io](https://www.serf.io/)
 - Memcached 或者 Redis 集群
-- 使用一种 [[b1bb984e]] 
+- 使用一种 [[Gossip 发现协议]] 
 - [Serf Demo: Web Servers + Load Balancer](https://github.com/hashicorp/serf/tree/master/demo/web-load-balancer) 用serf修改Haproxy配置

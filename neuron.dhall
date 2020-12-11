@@ -1,8 +1,8 @@
 { siteTitle = "Zettelkasten"
 , author = Some "Fan Zhen"
-, siteBaseUrl = Some "https://FanZhen2002.github.io/zk"
+, siteBaseUrl = Some "https://zk.fanzhen.org"
 -- List of themes: https://neuron.zettel.page/2014601.html
-, theme = "teal"
+, theme = "brown"
 , editUrl = Some "https://github.com/FanZhen2002/zk/edit/master/"
 , mathJaxSupport = False
 }
