@@ -20,6 +20,8 @@ tags: [home]
 
 [[[z:zettels?tag=Network]]]
 
+[[[z:zettels?tag=DCS]]]
+
 [[[z:zettels?tag=Medicine]]]
 
 [[[z:zettels?tag=Economy]]]
