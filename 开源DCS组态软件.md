@@ -1,6 +1,6 @@
 ---
 date: 2020-12-21T12:57
-tags: [DCS]
+tags: [IIoT]
 ---
 
 # 开源DCS组态软件
@@ -8,6 +8,8 @@ tags: [DCS]
 ## 现场总线标准
 
 IEC 61158 标准
+
+未来使用 [[[兼容同步实时控制以太网]]]  
 
 ## IEC 61499 标准的开源软件
 * [Wiki: IEC 61499 标准](https://zh.wikipedia.org/wiki/IEC_61499)

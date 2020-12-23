@@ -1,6 +1,6 @@
 ---
 date: 2020-08-27T15:29
-tag: DistributedComputing
+tags: [DistributedComputing]
 ---
 
 # ZeroMQ-高性能消息库

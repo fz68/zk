@@ -20,7 +20,7 @@ tags: [home]
 
 [[[z:zettels?tag=Network]]]
 
-[[[z:zettels?tag=DCS]]]
+[[[z:zettels?tag=IIoT]]]
 
 [[[z:zettels?tag=Medicine]]]
 
