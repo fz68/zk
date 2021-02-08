@@ -21,13 +21,21 @@
         // as you type:
         "editor.suggest.showSnippets": false,
     },
+    "vim.leader": "<space>",
+    "vim.handleKeys": {
+        "<C-a>": false,
+        "<C-f>": false,
+        "<C-n>": false
+    },
+
+    "editor.lineNumbers":"relative", 
     "vim.normalModeKeyBindingsNonRecursive": [
         {
             "before": [
                 "<leader>",
                 "d"
             ],
-            "after": [],
+            "after": [. ,
             "commands": [
                 {
                     "command": "editor.action.insertSnippet",
@@ -37,6 +45,18 @@
                 }
             ]
         },
+        {
+            "before": ["<leader>", "s"],
+            "commands":[":w!"]
+        },
+        {
+            "before": ["<leader>", "q"],
+            "commands":[":q!"]
+        },  
+        {
+            "before": ["<leader>", "sq"],
+            "commands":[":wq!"]
+        }
             // open references panel with gr
             {
                 "before": [
@@ -87,20 +107,26 @@
                     "editor.action.openLink"
                 ]
             }
-    ]   
-
+    ],   
+    "indentRainbow.colors": [
+        "rgba(16,16,16,0.1)",
+        "rgba(16,16,16,0.2)",
+        "rgba(16,16,16,0.3)",
+        "rgba(16,16,16,0.4)",
+        "rgba(16,16,16,0.5)",
+        "rgba(16,16,16,0.6)",
+        "rgba(16,16,16,0.7)",
+        "rgba(16,16,16,0.8)",
+        "rgba(16,16,16,0.9)",
+        "rgba(16,16,16,1.0)"
+    ],
+    "workbench.colorCustomizations": {
+        "titleBar.activeBackground": "#2cb2ff",
+        "titleBar.activeForeground": "#2cb2ffCC",
+        "titleBar.inactiveBackground": "#94d7fd",
+        "titleBar.inactiveForeground": "#fff000cc",
+        "titleBar.border": "",        
+    ]
 }
-"vim.normalModeKeyBindingsNonRecursive": [
-    {
-        "after": [],
-        "before": [
-            "z",
-            "="
-        ],
-        "commands": [
-            {
-                "args": [],
-                "command": "editor.action.quickFix"
-            }
-        ]
-    },
+
+

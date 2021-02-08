@@ -4,6 +4,8 @@ tags: [home]
 
 # FanZhen's 卡片盒
 
+[[[z:zettels?tag=zettelkasten]]]
+
 [[[z:zettels?tag=zt_structure]]]
 
 [[[z:zettels?tag=SmartPowerPlant]]]
