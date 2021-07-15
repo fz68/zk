@@ -56,5 +56,5 @@ tags: [zettelkasten]
 
 ---
 
-## 参考链接
-[The Zettelkasten Method: Examples to help you get started](https://medium.com/@rebeccawilliams9941/the-zettelkasten-method-examples-to-help-you-get-started-8f8a44fa9ae6)
+## 参考文献
+[1]R. Williams, “The Zettelkasten Method: Examples to help you get started.,” Medium, Oct. 05, 2020. https://medium.com/@rebeccawilliams9941/the-zettelkasten-method-examples-to-help-you-get-started-8f8a44fa9ae6 (accessed Feb. 09, 2021).

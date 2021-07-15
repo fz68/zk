@@ -125,8 +125,42 @@
         "titleBar.activeForeground": "#2cb2ffCC",
         "titleBar.inactiveBackground": "#94d7fd",
         "titleBar.inactiveForeground": "#fff000cc",
-        "titleBar.border": "",        
+       //  "titleBar.border": "",        
     ]
 }
 
+{
+    "pasteImage.defaultName": "${currentFileNameWithoutExt}-Y-MM-DD-HH-mm-ss",
+    "pasteImage.path": "${projectRoot}/static"
+}
 
+{
+    "vsnotes.noteTitleConvertSpaces": "-",
+    "vsnotes.tokens": [
+        {
+            "type": "datetime",
+            "token": "{dt}",
+            "format": "YYYYMMDDHHmm",
+            "description": "Insert formatted datetime."
+        },
+        {
+            "type": "title",
+            "token": "{title}",
+            "description": "Insert note title from input box.",
+            "format": "Untitled"
+        },
+        {
+            "type": "extension",
+            "token": "{ext}",
+            "description": "Insert file vsnotes.",
+            "format": "md"
+        }
+    ]
+}
+
+{
+    "vsnotes.defaultSnippet": {
+        "langId": "markdown",
+        "name": "Header"
+    }
+}
