@@ -28,6 +28,8 @@ tags: [home]
 
 [[[z:zettels?tag=Economy]]]
 
+[[[z:zettels?tag=reading]]]
+
 [[[z:zettels?tag=zt_processing]]]
 
 [[[z:zettels?tag=zt_lookup]]]
