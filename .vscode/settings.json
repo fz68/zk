@@ -27,6 +27,7 @@
         "<C-f>": false,
         "<C-n>": false
     },
+    "explorer.autoReveal": true,
 
     "editor.lineNumbers":"relative", 
     "vim.normalModeKeyBindingsNonRecursive": [
