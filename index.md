@@ -28,7 +28,7 @@ tags: [home]
 
 [[[z:zettels?tag=Economy]]]
 
-[[[z:zettels?tag=reading]]]
+[[[z:zettels?tag=Reading]]]
 
 [[[z:zettels?tag=zt_processing]]]
 

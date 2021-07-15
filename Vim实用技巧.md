@@ -1,6 +1,6 @@
 ---
 date: 2021-07-14T13:35
-tags: [Reading, ,zt_processing]
+tags: [Reading, zt_processing]
 ---
 
 # Vim实用技巧 第2版
